@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1014fc08-721c-4db1-a72d-5b8840fb8beb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-parent.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Demo01.java" afterDir="false" />
-    </list>
+    <list default="true" id="1014fc08-721c-4db1-a72d-5b8840fb8beb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../spring-cloud-provider/target/" />
@@ -74,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -83,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Demo02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -196,7 +192,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1374" />
@@ -250,7 +246,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571232936380" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571233350712" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -341,7 +337,7 @@
       <updated>1571017860166</updated>
       <workItem from="1571017861594" duration="16265000" />
       <workItem from="1571109506730" duration="9000" />
-      <workItem from="1571231602156" duration="1330000" />
+      <workItem from="1571231602156" duration="1634000" />
     </task>
     <task id="LOCAL-00001" summary="父工程添加数据">
       <created>1571231711950</created>
@@ -361,7 +357,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17604000" />
+    <option name="totallyTimeSpent" value="17908000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,7 +393,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3295325" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3295325" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.46522236" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.5404789" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -676,6 +672,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -684,13 +687,6 @@
             <element signature="e#65#66#0" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
